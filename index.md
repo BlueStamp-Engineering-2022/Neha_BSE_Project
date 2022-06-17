@@ -30,4 +30,4 @@ My starter project was the customizable Arduino project. setting up and hooking 
 
 [![Starter Project](http://i3.ytimg.com/vi/s-QJcNgnrjE/hqdefault.jpg))}
 
-[![Starter Project]([https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"](https://youtu.be/s-QJcNgnrjE)}
+[![Starter Project](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"](https://youtu.be/s-QJcNgnrjE)}
