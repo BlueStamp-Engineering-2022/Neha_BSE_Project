@@ -30,4 +30,4 @@ My starter project was the customizable Arduino project. setting up and hooking 
 
 [![Starter Project](http://i3.ytimg.com/vi/s-QJcNgnrjE/hqdefault.jpg))}
 
-[![Starter Project](https://youtu.be/s-QJcNgnrjE)}
+[![Starter Project](https://youtu.be/s-QJcNgnrjE}
