@@ -22,7 +22,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone was writing the code for the digital display on my Raspberry Pi. I began by setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor. Then, I began writing the code. First, I worked on the terminal to install packages and then I was able to edit the modules in my display. The modules are the pieces of information that are being displayed. For my mirror, I used date, time, weather, daily headlines, and compliments. I enjoyed working on the first milestone because it was ver customizable and I was able to edit my modules based on what I wanted. However, I was not able to get my weather module to display the forecast correctly so I had to spend a long time debugging that code. Eventually, I figured out that it was a syntax error.
 
 
-[![First Milestone](https://i3.ytimg.com/vi/aA95zK1T5yw/maxresdefault.jpg)](https://youtu.be/aA95zK1T5yw){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/aA95zK1T5yw/maxresdefault.jpg)]https://youtu.be/aA95zK1T5yw){:target="_blank" rel="noopener"}
 
 # Starter Project
   
