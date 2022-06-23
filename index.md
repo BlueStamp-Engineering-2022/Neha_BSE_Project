@@ -26,7 +26,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 # Starter Project
   
 
-My starter project was the customizable Arduino project. For the inputs, I picked a motion sensor and for the outputs, I used an LED. I began my project by 
+My starter project was the customizable Arduino project. For the inputs, I picked a PIR motion sensor and for the output, I used an LED. PIR motion sensors use a pair of sensors to detect heat energy in an environment. When the signal between the two sensors changes, the sensors engage and detect motion. I began my project by writing the software for my program. First, I wrote the code for the motion sensor and then I connected it to my Arduino. Then I integrated the LEDs into my project. By doing this, I was able to get my LED to light up when motion was sensed by the sensor. Lastly, I soldered everything together and then I put my final project back together.
 
 ![Starter Project](https://i3.ytimg.com/vi/tx2Hert3ezE/maxresdefault.jpg)
 
