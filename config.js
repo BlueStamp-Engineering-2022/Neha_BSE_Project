@@ -8,7 +8,7 @@
  * and https://docs.magicmirror.builders/modules/configuration.html
  */
 let config = {
-	address: "localhost", 	// Address to listen on, can be:
+	address: "0.0.0.0", 	// Address to listen on, can be:
 							// - "localhost", "127.0.0.1", "::1" to listen on loopback interface
 							// - another specific IPv4/6 to listen on a specific interface
 							// - "0.0.0.0", "::" to listen on any interface
@@ -16,7 +16,7 @@ let config = {
 	port: 8080,
 	basePath: "/", 	// The URL path where MagicMirror² is hosted. If you are using a Reverse proxy
 					// you must set the sub path here. basePath must end with a /
-	ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1"], 	// Set [] to allow all IP addresses
+	ipWhitelist: [],	// Set [] to allow all IP addresses
 															// or add a specific IPv4 of 192.168.1.5 :
 															// ["127.0.0.1", "::ffff:127.0.0.1", "::1", "::ffff:192.168.1.5"],
 															// or IPv4 range of 192.168.3.0 --> 192.168.3.15 use CIDR format :
@@ -89,6 +89,14 @@ let config = {
 			accessToken: "BQDiQGW2Oj93Ub5jtBhzXH7lOmpiwxH9bQY0JkmRnaaQcVknXhwoGOrst-cJRcLdk038oD_oeoQTDGid8EP7wKusYE2HCyXTqMq8vTYAtLDWi4h5yo_rDQ9j1CyPS8Bn1DKk0hmXGZLmmDQ7P6p2ARTL-gmKqHYhUawhqm2jIBzM3qHZLxBdbJegoA",
 			refreshToken: "AQCpXwHMx0ujp3cexnJxJ5R4oObkj46lwTNeDpc8nwaAfbGDOAsODrLRFmF2E1CcWTA58ubvl3Ddy1zxk7YjNZwNZyha1q0LWgHjH8mk0rbUBsouOA2dmxGftO2S4S0eVjk"
 		  }
+		},
+		{
+			module: 'MMM-Remote-Control',
+			config: {
+				customCommand: {},  
+				showModuleApiMenu: true, 
+				secureEndpoints: true, 
+			}
 		},
 
 		{
