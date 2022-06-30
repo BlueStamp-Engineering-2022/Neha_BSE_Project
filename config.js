@@ -66,10 +66,6 @@ let config = {
 				]
 			}
 		},
-		{
-			module: "compliments",
-			position: "lower_third"
-		},
 		
 		{
 			module: "weather",
@@ -82,6 +78,17 @@ let config = {
 				lon: "-121.895",
 				apiKey: "c8db4245018c50eb495a32defc94cc8c",
 				}
+		},
+		{
+		  module: "MMM-NowPlayingOnSpotify",
+		  position: "bottom_right",
+
+		  config: {
+			clientID: "d344b057cfbf47968d28b0b138a545ee",
+			clientSecret: "ca72bf878eb544cdaf0c8f81be2746fb",
+			accessToken: "BQDiQGW2Oj93Ub5jtBhzXH7lOmpiwxH9bQY0JkmRnaaQcVknXhwoGOrst-cJRcLdk038oD_oeoQTDGid8EP7wKusYE2HCyXTqMq8vTYAtLDWi4h5yo_rDQ9j1CyPS8Bn1DKk0hmXGZLmmDQ7P6p2ARTL-gmKqHYhUawhqm2jIBzM3qHZLxBdbJegoA",
+			refreshToken: "AQCpXwHMx0ujp3cexnJxJ5R4oObkj46lwTNeDpc8nwaAfbGDOAsODrLRFmF2E1CcWTA58ubvl3Ddy1zxk7YjNZwNZyha1q0LWgHjH8mk0rbUBsouOA2dmxGftO2S4S0eVjk"
+		  }
 		},
 
 		{
