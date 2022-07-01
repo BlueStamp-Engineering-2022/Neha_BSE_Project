@@ -15,7 +15,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was adding modifications to my code. Along with the weather, time, and news, I added a Spotify module and a remote control module. The Spotify module shows what you are currently listening to on Spotify. And the remote control module allows you to control the mirror from your phone. For this milestone, I enjoyed being able to choose what modules I wanted to add to the mirror. However, I had a lot of issues with getting modules to work. There were a lot of modules that I was not able to use because they were either too outdated or were not compatible with my code. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone]
+("https://i3.ytimg.com/vi/idpgOXJyZgs/maxresdefault.jpg"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
