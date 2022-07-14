@@ -1,5 +1,5 @@
 # Smart Mirror
-The Raspberry Pi smart mirror, is a digital mirror that that projects a computer display over a traditional reflective mirror. Some possible uses include displaying the time, a calendar, weather forecasts, or other applications in your reflection. 
+The Raspberry Pi smart mirror is a digital mirror that that projects a computer display over a traditional reflective mirror. Some possible uses include displaying the time, a calendar, weather forecasts, or other applications in your reflection. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
