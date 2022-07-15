@@ -3,7 +3,7 @@ The Raspberry Pi smart mirror is a digital mirror that that projects a computer 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Neha Bagora | Valley Christian | Computer Science | Incoming Junior |
+| Neha | Valley Christian | Computer Science | Incoming Junior |
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVhfWUkYnY63QKiZtAlQ5-SmKaugMQ_xynCi_dRmvM1xhg7pAZSUPIrtBHQSZGd_4k_fMs7Hkx7YfdWz4HLU4zq6Hkkh-_SK7rvXdAesULPBPTpmnHBBeJYQXvtN5X8iNQ56NSpEL0Z9RLNb_RQUOXn=w1448-h1446-no?authuser=0)
   
