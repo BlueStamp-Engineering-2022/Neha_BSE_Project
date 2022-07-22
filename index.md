@@ -10,7 +10,7 @@ The Raspberry Pi smart mirror is a digital mirror that that projects a computer 
 # Final Milestone
 The third milestone, which involved working on the project's hardware component, constructing the mirror's frame, and assembling all of the parts, is now complete. I had to become familiar with tools that I had never used before in order to reach this milestone. I assembled my frame using a drill and a handsaw. Working with and learning how to use these tools was enjoyable. Accurately gauging the wood was where I had the most trouble. I built a frame, but the measurements were wrong, so I had to throw it away and start over.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/IW2lBRQX_9g/maxresdefault.jpg)](https://www.youtube.com/watch?v=IW2lBRQX_9g){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My code was modified as part of my second milestone. I also included a Spotify module and a remote control module in addition to the weather, time, and news. The Spotify module displays your current Spotify listening activity. Additionally, you can operate the mirror with your phone by using the remote control module. I liked having a say in what modules I wanted to add to the mirror for this milestone. But I had a lot of trouble getting the modules to operate. I was unable to use a large number of modules since they were either out of date or incompatible with my code.
