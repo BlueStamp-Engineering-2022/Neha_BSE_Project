@@ -16,7 +16,7 @@ The third milestone, which involved working on the project's hardware component,
 My code was modified as part of my second milestone. I also included a Spotify module and a remote control module in addition to the weather, time, and news. The Spotify module displays your current Spotify listening activity. Additionally, you can operate the mirror with your phone by using the remote control module. I liked having a say in what modules I wanted to add to the mirror for this milestone. But I had a lot of trouble getting the modules to operate. I was unable to use a large number of modules since they were either out of date or incompatible with my code.
 
 
-[![Second Milestone](https://i3.ytimg.com/vi/idpgOXJyZgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=idpgOXJyZgs){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i3.ytimg.com/vi/idpgOXJyZgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=idpgOXJyZgs)
 
 
 # First Milestone 
